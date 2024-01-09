@@ -25,4 +25,13 @@ Run the following command to install all the dependencies needed for the project
 
 ```bash
 npm install
+
+```
+
+## Run the Application
+After the dependencies are installed, run the following command to start the application:
+
+```bash
 npm run dev
+
+```
